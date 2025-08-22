@@ -505,5 +505,3 @@ function htmlContent(horasExtras, pedidos, inventario, contactos, isPrivate) {
     </html>
   `;
 }
-u
-P
