@@ -4,7 +4,7 @@ addEventListener('fetch', event => {
 
 async function handleRequest(request) {
   // Contraseñas hardcoded
-  const PUBLIC_PASSWORD = "0";
+  const PUBLIC_PASSWORD = "10";
   const PRIVATE_PASSWORD = "j";
 
   // Datos hardcoded (edítalos aquí)
