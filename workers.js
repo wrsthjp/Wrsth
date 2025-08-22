@@ -16,6 +16,7 @@ async function handleRequest(request) {
     { dia: "13 (Mié)", horas: 3 },
     { dia: "15 (Vie)", horas: 10 },
     { dia: "18 (Lun)", horas: 1 },
+    { dia: "20 (Mié)", horas: 1 },
   ];
 
   const pedidos = [
