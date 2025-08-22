@@ -9,14 +9,14 @@ async function handleRequest(request) {
 
   // Datos hardcoded (edítalos aquí)
   const horasExtras = [
-    { dia: "5 (Mar)", horas: 4 },
-    { dia: "6 (Mié, No trabajé)", horas: 0 },
-    { dia: "7 (Jue)", horas: 2 },
-    { dia: "11 (Lun)", horas: 3 },
-    { dia: "13 (Mié)", horas: 3 },
-    { dia: "15 (Vie)", horas: 10 },
-    { dia: "18 (Lun)", horas: 1 },
-    { dia: "20 (Mié)", horas: 1 },
+    { día: "5 (Mar)", horas: 4 },
+    { día: "6 (Mié, No trabajé)", horas: 0 },
+    { día: "7 (Jue)", horas: 2 },
+    { día: "11 (Lun)", horas: 3 },
+    { día: "13 (Mié)", horas: 3 },
+    { día: "15 (Vie)", horas: 10 },
+    { día: "18 (Lun)", horas: 1 },
+    { día: "20 (Mié)", horas: 1 },
   ];
 
   const pedidos = [
